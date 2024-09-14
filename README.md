@@ -6,7 +6,6 @@
 <h3 align="left">👩‍💻  About Me</h3>
 🌱 I’m currently learning Network Security,Penetration Testing,Ethical Hacking,Malware Analysis and Security Automation
 
-💬 Ask me about **Incident Response, Threat Modeling and Risk Assessment Strategies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
